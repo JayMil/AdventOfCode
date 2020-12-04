@@ -1,3 +1,7 @@
+.PHONY: day4
+day4:
+	python3 day4/test.py
+
 .PHONY: day3
 day3:
 	python3 day3/test.py
